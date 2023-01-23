@@ -69,3 +69,8 @@ input.onButtonPressed(Button.B, function () {
 
 ### Step 5
 Connect your BBC micro:bit and click ``|Download|``. Once programmed, power the BBC micro:bit and press ``||input:buttons A and B||`` to turn the lights On and Off.
+
+## Conclusion
+### Conclusion Step @unplugged
+Great work! Hopefully your lights now go on and off, and you're well on your
+way to creating a fully working set of traffic lights! :)
