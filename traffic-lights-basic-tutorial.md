@@ -74,3 +74,4 @@ Connect your BBC micro:bit and click ``|Download|``. Once programmed, power the 
 ### Conclusion Step @unplugged
 Great work! Hopefully your lights now go on and off, and you're well on your
 way to creating a fully working set of traffic lights! :)
+![Great job](https://raw.githubusercontent.com/niaxotim/erps-traffic-lights/master/assets/great_job.png)
